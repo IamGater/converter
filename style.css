@@ -37,6 +37,7 @@ main {
   border-radius: 3px;
   border: 2px solid rgb(71, 83, 116);
   background-color: #303134;
+  color: #e2e0dd;
 }
 .output {
   font-size: 2rem;
